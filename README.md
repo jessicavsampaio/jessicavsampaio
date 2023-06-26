@@ -1,4 +1,4 @@
-<div align="center">
+<div>
    <h1>Oii, eu sou a <a href="https://github.com/jessicavsampaio" style:"color:1B6B93">Jéssica Vieira</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
@@ -8,9 +8,9 @@
 - 🌱 Atualmente estou estudando JavaScript
 
 <div style:"display: block"><br>
-  <img align:"center" alt="Jessica-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align:"center" alt="Jessica-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align:"center" alt="Jessica-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 ##
