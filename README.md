@@ -2,7 +2,6 @@
    <h1>Oii, eu sou a <a href="https://github.com/jessicavsampaio" style:"color:1B6B93">Jéssica Vieira</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavsampaio&layout=compact)
 
 - 🔭 Desenvolvedora front-end
 - 🌱 Atualmente estou estudando JavaScript
