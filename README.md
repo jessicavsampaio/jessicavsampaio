@@ -3,13 +3,14 @@
 </div>
 
 
-- 🔭 Desenvolvedora front-end
-- 🌱 Atualmente estou estudando JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="15" alt="Logotipo da Apple" title="Logotipo da Apple"> Software Engineer IOS 
+- 🌱 Atualmente estou estudando Swift e UI Kit
 
 <div style:"display: block"><br>
-  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align:"center" alt="Jessica-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align:"center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align:"center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align:"center" alt="HMTL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align:"center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
 ##
